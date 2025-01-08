@@ -1,0 +1,17 @@
+E:\Egzaminy Windows Forms\Nadaj Przesyłke\Nadaj Przesyłke\bin\Debug\net8.0-windows\Nadaj Przesyłke.exe
+E:\Egzaminy Windows Forms\Nadaj Przesyłke\Nadaj Przesyłke\bin\Debug\net8.0-windows\Nadaj Przesyłke.deps.json
+E:\Egzaminy Windows Forms\Nadaj Przesyłke\Nadaj Przesyłke\bin\Debug\net8.0-windows\Nadaj Przesyłke.runtimeconfig.json
+E:\Egzaminy Windows Forms\Nadaj Przesyłke\Nadaj Przesyłke\bin\Debug\net8.0-windows\Nadaj Przesyłke.dll
+E:\Egzaminy Windows Forms\Nadaj Przesyłke\Nadaj Przesyłke\bin\Debug\net8.0-windows\Nadaj Przesyłke.pdb
+E:\Egzaminy Windows Forms\Nadaj Przesyłke\Nadaj Przesyłke\obj\Debug\net8.0-windows\Nadaj_Przesyłke.Form1.resources
+E:\Egzaminy Windows Forms\Nadaj Przesyłke\Nadaj Przesyłke\obj\Debug\net8.0-windows\Nadaj Przesyłke.csproj.GenerateResource.cache
+E:\Egzaminy Windows Forms\Nadaj Przesyłke\Nadaj Przesyłke\obj\Debug\net8.0-windows\Nadaj Przesyłke.GeneratedMSBuildEditorConfig.editorconfig
+E:\Egzaminy Windows Forms\Nadaj Przesyłke\Nadaj Przesyłke\obj\Debug\net8.0-windows\Nadaj Przesyłke.AssemblyInfoInputs.cache
+E:\Egzaminy Windows Forms\Nadaj Przesyłke\Nadaj Przesyłke\obj\Debug\net8.0-windows\Nadaj Przesyłke.AssemblyInfo.cs
+E:\Egzaminy Windows Forms\Nadaj Przesyłke\Nadaj Przesyłke\obj\Debug\net8.0-windows\Nadaj Przesyłke.csproj.CoreCompileInputs.cache
+E:\Egzaminy Windows Forms\Nadaj Przesyłke\Nadaj Przesyłke\obj\Debug\net8.0-windows\Nadaj Przesyłke.dll
+E:\Egzaminy Windows Forms\Nadaj Przesyłke\Nadaj Przesyłke\obj\Debug\net8.0-windows\refint\Nadaj Przesyłke.dll
+E:\Egzaminy Windows Forms\Nadaj Przesyłke\Nadaj Przesyłke\obj\Debug\net8.0-windows\Nadaj Przesyłke.pdb
+E:\Egzaminy Windows Forms\Nadaj Przesyłke\Nadaj Przesyłke\obj\Debug\net8.0-windows\Nadaj Przesyłke.genruntimeconfig.cache
+E:\Egzaminy Windows Forms\Nadaj Przesyłke\Nadaj Przesyłke\obj\Debug\net8.0-windows\ref\Nadaj Przesyłke.dll
+E:\Egzaminy Windows Forms\Nadaj Przesyłke\Nadaj Przesyłke\obj\Debug\net8.0-windows\Nadaj_Przesyłke.Properties.Resources.resources
