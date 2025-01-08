@@ -1,0 +1,16 @@
+E:\Windows Forms\Windows Forms\bin\Debug\net8.0-windows\Windows Forms.exe
+E:\Windows Forms\Windows Forms\bin\Debug\net8.0-windows\Windows Forms.deps.json
+E:\Windows Forms\Windows Forms\bin\Debug\net8.0-windows\Windows Forms.runtimeconfig.json
+E:\Windows Forms\Windows Forms\bin\Debug\net8.0-windows\Windows Forms.dll
+E:\Windows Forms\Windows Forms\bin\Debug\net8.0-windows\Windows Forms.pdb
+E:\Windows Forms\Windows Forms\obj\Debug\net8.0-windows\Windows_Forms.Form1.resources
+E:\Windows Forms\Windows Forms\obj\Debug\net8.0-windows\Windows Forms.csproj.GenerateResource.cache
+E:\Windows Forms\Windows Forms\obj\Debug\net8.0-windows\Windows Forms.GeneratedMSBuildEditorConfig.editorconfig
+E:\Windows Forms\Windows Forms\obj\Debug\net8.0-windows\Windows Forms.AssemblyInfoInputs.cache
+E:\Windows Forms\Windows Forms\obj\Debug\net8.0-windows\Windows Forms.AssemblyInfo.cs
+E:\Windows Forms\Windows Forms\obj\Debug\net8.0-windows\Windows Forms.csproj.CoreCompileInputs.cache
+E:\Windows Forms\Windows Forms\obj\Debug\net8.0-windows\Windows Forms.dll
+E:\Windows Forms\Windows Forms\obj\Debug\net8.0-windows\refint\Windows Forms.dll
+E:\Windows Forms\Windows Forms\obj\Debug\net8.0-windows\Windows Forms.pdb
+E:\Windows Forms\Windows Forms\obj\Debug\net8.0-windows\Windows Forms.genruntimeconfig.cache
+E:\Windows Forms\Windows Forms\obj\Debug\net8.0-windows\ref\Windows Forms.dll
