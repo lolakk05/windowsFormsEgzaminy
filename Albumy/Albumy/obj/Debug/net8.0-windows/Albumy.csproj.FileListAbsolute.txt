@@ -1,0 +1,17 @@
+E:\Egzaminy Windows Forms\Albumy\Albumy\bin\Debug\net8.0-windows\Albumy.exe
+E:\Egzaminy Windows Forms\Albumy\Albumy\bin\Debug\net8.0-windows\Albumy.deps.json
+E:\Egzaminy Windows Forms\Albumy\Albumy\bin\Debug\net8.0-windows\Albumy.runtimeconfig.json
+E:\Egzaminy Windows Forms\Albumy\Albumy\bin\Debug\net8.0-windows\Albumy.dll
+E:\Egzaminy Windows Forms\Albumy\Albumy\bin\Debug\net8.0-windows\Albumy.pdb
+E:\Egzaminy Windows Forms\Albumy\Albumy\obj\Debug\net8.0-windows\Albumy.Form1.resources
+E:\Egzaminy Windows Forms\Albumy\Albumy\obj\Debug\net8.0-windows\Albumy.Properties.Resources.resources
+E:\Egzaminy Windows Forms\Albumy\Albumy\obj\Debug\net8.0-windows\Albumy.csproj.GenerateResource.cache
+E:\Egzaminy Windows Forms\Albumy\Albumy\obj\Debug\net8.0-windows\Albumy.GeneratedMSBuildEditorConfig.editorconfig
+E:\Egzaminy Windows Forms\Albumy\Albumy\obj\Debug\net8.0-windows\Albumy.AssemblyInfoInputs.cache
+E:\Egzaminy Windows Forms\Albumy\Albumy\obj\Debug\net8.0-windows\Albumy.AssemblyInfo.cs
+E:\Egzaminy Windows Forms\Albumy\Albumy\obj\Debug\net8.0-windows\Albumy.csproj.CoreCompileInputs.cache
+E:\Egzaminy Windows Forms\Albumy\Albumy\obj\Debug\net8.0-windows\Albumy.dll
+E:\Egzaminy Windows Forms\Albumy\Albumy\obj\Debug\net8.0-windows\refint\Albumy.dll
+E:\Egzaminy Windows Forms\Albumy\Albumy\obj\Debug\net8.0-windows\Albumy.pdb
+E:\Egzaminy Windows Forms\Albumy\Albumy\obj\Debug\net8.0-windows\Albumy.genruntimeconfig.cache
+E:\Egzaminy Windows Forms\Albumy\Albumy\obj\Debug\net8.0-windows\ref\Albumy.dll
